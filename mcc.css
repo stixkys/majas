@@ -70,4 +70,12 @@ h1 {
 
 p {
     text-align: center;
+    font-size: 25px;
+}
+
+hr {
+    border: none;
+    background-color: black;
+    width: 25%;
+    height: 2px;
 }
